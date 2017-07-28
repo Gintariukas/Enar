@@ -1,0 +1,20 @@
+{
+  "name": "enar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "node-sass -w sass/ -o css/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gintariukas/Enar.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gintariukas/Enar/issues"
+  },
+  "homepage": "https://github.com/Gintariukas/Enar#readme"
+}
