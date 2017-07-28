@@ -7,7 +7,7 @@ html body {
   font-family: "Open Sans", sans-serif;
   font-size: 14px;
 }
-
+/* Navbar One */
 #navOne {
   background-color: #f9f9f9;
   color: #777777;
@@ -53,6 +53,7 @@ html body {
     }
   }
 }
+/* Navbar Two */
 #navTwo {
   border-top: 1px solid #eaebed;
   border-bottom: 1px solid #eaebed;
@@ -124,6 +125,7 @@ html body {
 .affix + .container-fluid {
   padding-top: 70px;
 }
+/* Slide One */
 #carouselOne {
   width: 100%;
   .col-lg-12 {
@@ -230,6 +232,7 @@ html body {
     }
   }
 }
+/* Title One */
 #titleOne {
   background-color: #1B2228;
   text-align: center;
@@ -245,6 +248,7 @@ html body {
     font-family: "Open Sans", sans-serif;
   }
 }
+/* Title Two */
 #titleTwo {
   background-color: #f9f9f9;
   border-top: 1px solid #eaebed;
@@ -324,6 +328,7 @@ html body {
     }
   }
 }
+/* Progress Bar */
 #bar {
   background-image: url("http://www.enar.ideal-theme.com/html5/images/bg_header4.jpg");
   padding: 0 65px 0 0;
@@ -467,6 +472,7 @@ html body {
     }
   }
 }
+/* Tab and Accordion */
 #us {
   background-color: #f9f9f9;
   border-top: 1px solid #eaebed;
@@ -583,6 +589,7 @@ html body {
     margin-left: -10px;
   }
 }
+/* Running Numbers */
 #numbers {
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
@@ -631,6 +638,7 @@ html body {
     animation-duration: 4s;
   }
 }
+/* Team */
 .content {
   padding-top: 50px;
   padding-bottom: 50px;
@@ -727,6 +735,7 @@ html body {
     }
   }
 }
+/* Contact */
 #contact {
   padding-top: 50px;
   padding-bottom: 50px;
@@ -824,6 +833,7 @@ html body {
     }
   }
 }
+/* Map */
 #location {
   background-color: #684962;
   text-align: center;
@@ -841,6 +851,7 @@ html body {
     padding-bottom: 20px;
   }
 }
+/* End Part */
 #ending {
   background-color: #191E21;
   color: white;
@@ -1034,6 +1045,7 @@ html body {
     cursor: pointer;
   }
 }
+/* Team (continue) */
 #carouselTwo {
   background-color: #f9f9f9;
   border-top: 1px solid #eaebed;
@@ -1122,6 +1134,7 @@ html body {
     }
   }
 }
+/* Footer */
 #footer {
   background-color: black;
   footer {
@@ -1145,6 +1158,7 @@ html body {
     }
   }
 }
+/* Pricing Plans */
 #plans {
   padding-top: 50px;
   padding-bottom: 50px;
